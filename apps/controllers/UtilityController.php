@@ -1,5 +1,5 @@
 <?php
 
 class UtilityController extends Utility {
-    //benodigde shit
+    //benodigde shit in utility
 }
