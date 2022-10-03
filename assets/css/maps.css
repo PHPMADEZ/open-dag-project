@@ -1,0 +1,64 @@
+body {
+  /* background-image: url('../../views/maps/istockphoto-1091231014-1024x1024.jpg');
+   background-repeat: repeat-y;*/
+   background-color: rgb(70, 178, 255);
+  
+ }
+ 
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+
+
+
+
+
+.item1 { grid-area: header; }
+.item2 { grid-area: map; }
+.item3 { grid-area: right; }
+.item4 { grid-area: info; }
+.item5 { grid-area: main; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header'
+    'info info info info info'
+    'map map map map right'
+    'map map map map right'
+    'main main main main main';
+  gap: 10px;
+ 
+  padding: 10px;
+}
+
+
+
+.grid-container > div {
+  
+  text-align: center;
+  padding: 20px 0;
+} 
+
+a{
+  color: black;
+}
+
+  a:visited {
+    color: black;
+
+  }
+  a:hover {
+    color: rgb(69, 68, 79);
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(112, 104, 147);
+
+  }
