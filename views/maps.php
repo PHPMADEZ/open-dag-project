@@ -22,7 +22,7 @@
             <div class="item1"><h1>kaart Page</h1></div>
             <div class="item2">
                 
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="5000" >
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="./maps/Plattegrond 3e verdieping.jpg" alt="First slide">
@@ -55,8 +55,8 @@
             <div class="item3">
                 
                     
-                    <h3><a href="./maps/ICT_Academie.php">ICT Academie</a></h3>
-                    <h3>Sport Academie</h3>
+                    <h3><a href="./maps/Academie_ICT.php">ICT Academie</a></h3>
+                    <h3><a href="./maps/Academie_SPORT.php">Sport Academie</a></h3>
                     <h3>Academie voor Marketing en Communicatie</h3>
                 
                 
@@ -73,7 +73,8 @@
                      Suspendisse sollicitudin dignissim nisi ac placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vitae scelerisque nulla. 
                      Nunc et mi ipsum. Vestibulum sed lorem eros. Donec tristique semper sem scelerisque semper. Mauris varius elit lacus, vel blandit nisl pretium in. Duis felis lacus, semper non rhoncus in, porta vel eros. 
                      Integer viverra ipsum non imperdiet dapibus. Praesent eget sem est. Proin facilisis posuere nisl vitae condimentum. 
-                     Aliquam facilisis, urna a finibus tempor, mauris risus porttitor sem, sed tristique mauris nisl eget sapien.</p>
+                     Aliquam facilisis, urna a finibus tempor, mauris risus porttitor sem, sed tristique mauris nisl eget sapien.
+                </p>
            
            </div>
 
