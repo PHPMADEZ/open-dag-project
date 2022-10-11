@@ -1,6 +1,6 @@
 <?php
 
-class SignupCont extends Signup {
+class SignupController extends Signup {
 
     //atributes
     private $uid;
@@ -62,7 +62,8 @@ class SignupCont extends Signup {
     - @return true if the input is empty
     - @return false if the input is not empty
     */
-    private function emptyInput() {
+    private function emptyInput() 
+    {
         $result;
         if(empty($this->uid) || empty($this->pwd) || empty($this->pwdRepeat) || empty($this->email)) {
             $result = false;

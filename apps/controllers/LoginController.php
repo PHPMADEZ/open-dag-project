@@ -1,6 +1,6 @@
 <?php
 
-class loginCont extends Login {
+class LoginController extends Login {
     // Attributes
     private $uid;
     private $pwd;
