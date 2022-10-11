@@ -55,9 +55,9 @@
             <div class="item3">
                     <h2>Opleidingen</h2><hr>
                     
-                    <h4><a href="./Academie_ICT.php">ICT Academie</a></h3>
-                    <h4><a href="./Academie_SPORT.php">Sport Academie</a></h3>
-                    <h4>Academie voor Marketing en Communicatie</h3>
+                    <h4><a href="./Academie_ICT.php">ICT Academie</a></h4>
+                    <h4><a href="./Academie_SPORT.php">Sport Academie</a></h4>
+                    <h4><a href="./Academie_Marketing&Evenementen.php">Academie voor Marketing en Communicatie</a></h4>
                 
                 
             </div>
