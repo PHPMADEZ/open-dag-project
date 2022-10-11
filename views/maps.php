@@ -25,16 +25,16 @@
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="./maps/Plattegrond 3e verdieping.jpg" alt="First slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 3e verdieping.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 4e verdieping.jpg" alt="Second slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 4e verdieping.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 3e verdieping.jpg" alt="Third slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 3e verdieping.jpg" alt="Third slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 4e verdieping.jpg" alt="Fourth slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 4e verdieping.jpg" alt="Fourth slide">
                     </div>
 
 
@@ -53,11 +53,11 @@
                 
                 
             <div class="item3">
-                
+                    <h2>Opleidingen</h2><hr>
                     
-                    <h3><a href="./maps/Academie_ICT.php">ICT Academie</a></h3>
-                    <h3><a href="./maps/Academie_SPORT.php">Sport Academie</a></h3>
-                    <h3>Academie voor Marketing en Communicatie</h3>
+                    <h4><a href="./Academie_ICT.php">ICT Academie</a></h3>
+                    <h4><a href="./Academie_SPORT.php">Sport Academie</a></h3>
+                    <h4>Academie voor Marketing en Communicatie</h3>
                 
                 
             </div>
