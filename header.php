@@ -15,7 +15,7 @@
         <nav>
             <ul>
                 <li><a href="">Home</a></li>
-                <li><a href="">Admin</a></li>
+                <li><a href="">Maps</a></li>
             </ul>
         </nav>
     </header>
