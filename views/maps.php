@@ -22,19 +22,19 @@
             <div class="item1"><h1>kaart Page</h1></div>
             <div class="item2">
                 
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="5000" >
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" >
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="./maps/Plattegrond 3e verdieping.jpg" alt="First slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 3e verdieping.jpg" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 4e verdieping.jpg" alt="Second slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 4e verdieping.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 3e verdieping.jpg" alt="Third slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 3e verdieping.jpg" alt="Third slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="./maps/Plattegrond 4e verdieping.jpg" alt="Fourth slide">
+                        <img class="d-block w-100" src="../assets/img/Plattegrond 4e verdieping.jpg" alt="Fourth slide">
                     </div>
 
 
@@ -53,11 +53,11 @@
                 
                 
             <div class="item3">
-                
+                    <h2>Opleidingen</h2><hr>
                     
-                    <h3><a href="./maps/ICT_Academie.php">ICT Academie</a></h3>
-                    <h3>Sport Academie</h3>
-                    <h3>Academie voor Marketing en Communicatie</h3>
+                    <h4><a href="./Academie_ICT.php">ICT Academie</a></h4>
+                    <h4><a href="./Academie_SPORT.php">Sport Academie</a></h4>
+                    <h4><a href="./Academie_Marketing&Evenementen.php">Academie voor Marketing en Communicatie</a></h4>
                 
                 
             </div>
@@ -73,7 +73,8 @@
                      Suspendisse sollicitudin dignissim nisi ac placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vitae scelerisque nulla. 
                      Nunc et mi ipsum. Vestibulum sed lorem eros. Donec tristique semper sem scelerisque semper. Mauris varius elit lacus, vel blandit nisl pretium in. Duis felis lacus, semper non rhoncus in, porta vel eros. 
                      Integer viverra ipsum non imperdiet dapibus. Praesent eget sem est. Proin facilisis posuere nisl vitae condimentum. 
-                     Aliquam facilisis, urna a finibus tempor, mauris risus porttitor sem, sed tristique mauris nisl eget sapien.</p>
+                     Aliquam facilisis, urna a finibus tempor, mauris risus porttitor sem, sed tristique mauris nisl eget sapien.
+                </p>
            
            </div>
 
