@@ -38,7 +38,7 @@
     </div>  
 
     <br>
-    <img alt="Sportende leerlingen" src="../assets/img/lmao.jpg">
+    <img alt="Sportende leerlingen" src="../assets/img/high-school-athletic-recruiting-by-woods-recruiting-and-al-woods1.jpeg" class="cm">
 
     <br><br><br><br>
 
