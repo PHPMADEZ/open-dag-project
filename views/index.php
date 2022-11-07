@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -65,35 +59,6 @@
 </body>
 </html>
 
-<a href="./maps.php">oi</a>
+<a href="./login.php">Login</a>
+<a href="./maps.php">Maps</a>
 
-
-
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
-=======
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
->>>>>>> Stashed changes
