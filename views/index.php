@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!doctype html>
 <html lang="en">
   <head>
@@ -62,3 +63,7 @@
 
 
 
+=======
+<a href="./login.php">Login</a>
+<a href="./maps.php">Maps</a>
+>>>>>>> Stashed changes
