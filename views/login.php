@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -6,24 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../css/style.css"> 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
-    <link rel="stylesheet" href="../assets/css/maps.css"> 
   </head>
 
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
-=======
-<body>
-<?php include("./navbar.php") ?>
-
-
-<footer class="bg-primary text-white pt-5 pb-4"> 
-  <div class="container text-center text-md-left"> 
-    <div class="row text-center text-md-left">
-      <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
-        <h5 class="text-uppercase mb-4 font-weight-bold text-white">Open dag</h5>
-        
->>>>>>> map-page
 
 <head>
   <meta charset="utf-8" />
@@ -45,21 +30,7 @@
   <link id="pagestyle" href="../assets/css/soft-ui-dashboard.css?v=1.0.6" rel="stylesheet" />
 </head>
 
-<<<<<<< HEAD
 <body class="">
-=======
-    </div>
-  </div>
-</footer>
-
-<main>
-
-<a href="./login.php">Login</a>
-<a href="./maps.php">Maps</a>
-
-</main>
-
->>>>>>> map-page
 
   <main class="main-content  mt-0">
     <section>
@@ -146,10 +117,5 @@
   <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="../assets/js/soft-ui-dashboard.min.js?v=1.0.6"></script>
 </body>
-<<<<<<< HEAD
-=======
-</html>
-
->>>>>>> map-page
 
 </html>

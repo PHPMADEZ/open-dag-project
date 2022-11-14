@@ -8,9 +8,10 @@
 
 
 
-<br>
-<hr>
+
 <body>
+    <?php include("./navbar.php")  ?>
+    
     <main>
         <div class="grid-container">
             <div class="item4">

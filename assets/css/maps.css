@@ -1,7 +1,7 @@
 body {
   /* background-image: url('../../views/maps/istockphoto-1091231014-1024x1024.jpg');
    background-repeat: repeat-y;*/
-   background-color: rgb(70, 178, 255);
+   background-color: rgb(255, 255, 255);
   
  }
  
@@ -9,7 +9,7 @@ body {
 main{
     width: 80%;
     margin: 0 auto;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(70, 178, 255);
 
 }
 

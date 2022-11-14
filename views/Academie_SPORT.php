@@ -3,6 +3,10 @@
 
 <link rel="stylesheet" href="../../assets/css/maps.css">
 
+
+
+<body>
+<?php include("./navbar.php")  ?>
 <main>
     <div class="center">
         <h1>Sport</h1>
@@ -44,4 +48,5 @@
 
 </main>
 
+</body>
 
